@@ -52,8 +52,7 @@
 
 [跨越鸿沟](https://github.com/holyshell/Books/blob/master/%5B%E8%B7%A8%E8%B6%8A%E9%B8%BF%E6%B2%9F%5D.%E6%9D%B0%E5%BC%97%E9%87%8C%C2%B7%E6%91%A9%E5%B0%94.pdf) （*Crossing the chasm*）` Geoffrey Moore `
 
-[Introduction to Probability for Data Science]
-（https://probability4datascience.com/ `Stanley H. Chan`
+[Introduction to Probability for Data Science](https://probability4datascience.com) `Stanley H. Chan`
 
 
 
